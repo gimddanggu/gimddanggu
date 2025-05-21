@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e531c,100:fb2828&height=180&text=DaHyun's%20Dev%20repo&animation=fadeIn&fontColor=133423&fontSize=40" />
 </div>
 
+
 # 👋 Hi there, I'm Dahyun Kim!
 
 🎓 I'm currently studying Computer Engineering at Pukyong National University  
@@ -9,11 +10,12 @@
 💼 I'm interested in **Backend Development, IoT, and Embedded Systems**
 
 ## 📫 How to reach me
-- Email: changum0520@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]()
+- [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:changum0520@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile/gimddanggu)
 - [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gimddanggu)](https://velog.io/@gimddanggu)
 
 </br>
+
 
 ## Languages & Programming
 <div align="left">
@@ -83,22 +85,36 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gimddanggu&theme=gruvbox" alt="gimddanggu" />
 </div>
 
-
-### ⚔️ Baekjoon Tier and Jandi
-<div>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gimddanggu"/>
-  <img src="http://mazandi.herokuapp.com/api?handle=gimddanggu&theme=cold" />
-
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gimddanggu&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/gimddanggu?pet-id=712913047655938997"
+      width="600"
+      height="70"/>
+  </a>
 </div>
 
 
+### ⚔️ Baekjoon Tier
+<div>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gimddanggu"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=gimddanggu&theme=cold" />
+</div>
 
+</br>
 
+<!--
 ## 💽 Repo
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gimddanggu&repo=Iot-Cpp-2025)](https://github.com/gimddanggu/Iot-Cpp-2025)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gimddanggu&repo=coding-test-log)](https://github.com/gimddanggu/coding-test-log)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gimddanggu&repo=typingGame)](https://github.com/gimddanggu/typingGame)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gimddanggu&repo=IoT-wpf-2025)](https://github.com/gimddanggu/IoT-wpf-2025)
+## 👻
+-->
+
+
+
+  
 
 
 
